@@ -8,3 +8,5 @@ Group Member:
 - Ramy Ali
 
 TA: Run Wang
+
+Mentor Meeting 1 slide: [https://motor-imagery.netlify.app](https://motor-imagery.netlify.app/1)

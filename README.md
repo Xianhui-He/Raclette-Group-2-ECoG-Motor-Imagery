@@ -1,4 +1,4 @@
-# Raclette-Group-2---ECoG-Motor-Imagery
+# Raclette-Group-2-ECoG-Motor-Imagery
 
 Group Member: 
 - Xianhui He

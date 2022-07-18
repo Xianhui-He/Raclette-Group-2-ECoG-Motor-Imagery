@@ -4,6 +4,9 @@
 
 Neuromatch 
 
-Group Member: Xianhui He, Huayu Wang
+Group Member: 
+- ianhui He
+- uayu Wang
+- Hanif R
 
 TestTest

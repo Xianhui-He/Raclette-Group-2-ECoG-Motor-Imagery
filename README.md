@@ -6,6 +6,7 @@ Group Member:
 - Hanif R
 - Nan Chen
 - Ramy Ali
+- Farhad Tabasi
 
 TA: Run Wang
 

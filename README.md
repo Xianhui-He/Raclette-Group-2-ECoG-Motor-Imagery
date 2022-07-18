@@ -4,7 +4,7 @@ Group Member:
 - Xianhui He
 - Huayu Wang
 - Hanif R
-- Nan C
+- Nan Chen
 - Ramy Ali
 
 TA: Run Wang

@@ -8,8 +8,6 @@ Group Member:
 - Xianhui He
 - Huayu Wang
 - Hanif R
-_Nan C
-Ramy Ali
-
-TestTest
+- Nan C
+- Ramy Ali
 

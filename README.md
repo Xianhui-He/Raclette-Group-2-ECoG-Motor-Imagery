@@ -9,10 +9,12 @@ Group Member:
 - Farhad Tabasi
 
 Project Mentor: Dr. Huihui Zhang
+
 Project TA: Vinsea A V Singh
+
 Course TA: Run Wang
 
-our website: [raclette-project.netlify.app](https://raclette-project.netlify.app/) (built by Run & Ramy)
+our website (built by Run & Ramy): [raclette-project.netlify.app](https://raclette-project.netlify.app/) 
 
 Group Meeting Note: [Google Docs](https://docs.google.com/document/d/16ahOSvqaMBGrvAJEGLrtr25V_kDfjXtQPSdSPcvHXkA/edit?usp=sharing)
 

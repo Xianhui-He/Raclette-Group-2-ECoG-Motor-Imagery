@@ -11,7 +11,6 @@ Group Member:
 - Hanif R
 - Nan Chen
 - Ramy Ali
-- Farhad Tabasi
 
 Project Mentor: Dr. Huihui Zhang
 

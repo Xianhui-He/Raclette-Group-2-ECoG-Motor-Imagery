@@ -1,6 +1,6 @@
 # Raclette-Group-2-ECoG-Motor-Imagery    
 
-[![react](https://img.shields.io/badge/raclette-project.netlify.app-FF8B8B?style=for-the-badge&logo=&label=Our%20Webpage&labelColor=f9f7e8)]([https://github.com/Xianhui-He](https://raclette-project.netlify.app/))
+[![react](https://img.shields.io/badge/raclette%20project-FF8B8B?style=for-the-badge&logo=&label=Our%20Webpage&labelColor=f9f7e8)]([raclette-project.netlify.app/](raclette-project.netlify.app/))
 <!--
 **our website (built by Run & Ramy:partying_face:): [raclette-project.netlify.app](https://raclette-project.netlify.app/) .
 -->

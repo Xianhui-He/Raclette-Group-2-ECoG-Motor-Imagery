@@ -1,4 +1,9 @@
-# Raclette-Group-2-ECoG-Motor-Imagery
+# Raclette-Group-2-ECoG-Motor-Imagery    
+
+[![react](https://img.shields.io/badge/raclette%20project-FF8B8B?style=for-the-badge&logo=&label=Our%20Webpage&labelColor=f9f7e8)](https://raclette-project.netlify.app/)
+<!--
+**our website (built by Run & Ramy:partying_face:): [raclette-project.netlify.app](https://raclette-project.netlify.app/) .
+-->
 
 Group Member: 
 - Xianhui He
@@ -6,11 +11,14 @@ Group Member:
 - Hanif R
 - Nan Chen
 - Ramy Ali
-- Farhad Tabasi
 
-TA: Run Wang
+Project Mentor: Dr. Huihui Zhang
 
-Mentor Meeting 1 slide: [raclette2.netlify.app](https://raclette2.netlify.app)
+Project TA: Vinsea A V Singh
+
+Course TA: Run Wang
+
+
 
 Group Meeting Note: [Google Docs](https://docs.google.com/document/d/16ahOSvqaMBGrvAJEGLrtr25V_kDfjXtQPSdSPcvHXkA/edit?usp=sharing)
 

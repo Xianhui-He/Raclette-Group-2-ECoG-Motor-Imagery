@@ -5,6 +5,7 @@
 **our website (built by Run & Ramy:partying_face:): [raclette-project.netlify.app](https://raclette-project.netlify.app/) .
 -->
 
+
 Group Member: 
 - Xianhui He
 - Huayu Wang
@@ -18,7 +19,7 @@ Project TA: Vinsea A V Singh
 
 Course TA: Run Wang
 
-
+![image](https://github.com/Xianhui-He/Raclette-Group-2-ECoG-Motor-Imagery/blob/main/files/Raclette2.png)
 
 
 ## Dataset Info

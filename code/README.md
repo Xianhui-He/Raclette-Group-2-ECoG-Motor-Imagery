@@ -2,10 +2,18 @@
 ![Logo](http://neuromatch.io/svgs/logos/neuromatch-academy-light.svg)
 
 
-# Project Title
+# Data Analysis Codes
 
-A brief description of what this project does and who it's for
+Our analysis is comprised of two parts: **single-channel analysis** & **population-level analysis**
 
+- Single-Channel Analysis
+
+     Performed using morlet wavelet time-frequency decomposition
+ 
+- Population-Level Analysis
+
+     Performed using SVM classifier & tSNE neural trajectory analysis
+  
 
 ## Acknowledgements
 

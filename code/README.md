@@ -8,7 +8,7 @@ Our analysis is comprised of two parts: **single-channel analysis** & **populati
 
 - Single-Channel Analysis
 
-     Performed using morlet wavelet time-frequency decomposition
+     Performed using morlet wavelet time-frequency analysis
  
 - Population-Level Analysis
 

@@ -22,5 +22,5 @@ Any additional information goes here
 ## Authors
 
 - [Hanif R.](https://www.github.com/hantuch)
-- [Xianhui H.](https://www.github.com/Xianhui-He)
 - [Huayu W.](https://www.github.com/PlaneTraveller)
+- [Xianhui H.](https://www.github.com/Xianhui-He)

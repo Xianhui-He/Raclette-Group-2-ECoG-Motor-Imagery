@@ -21,4 +21,6 @@ Any additional information goes here
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@Hanif R.](https://www.github.com/hantuch)
+- [@Xianhui H.](https://www.github.com/Xianhui-He)
+- [@Huayu W.](https://www.github.com/PlaneTraveller)

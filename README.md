@@ -20,7 +20,6 @@ Course TA: Run Wang
 
 
 
-Group Meeting Note: [Google Docs](https://docs.google.com/document/d/16ahOSvqaMBGrvAJEGLrtr25V_kDfjXtQPSdSPcvHXkA/edit?usp=sharing)
 
 ## Dataset Info
 This is one of multiple ECoG datasets from Miller 2019, recorded in a clinical settings with a variety of tasks. Raw data and dataset paper are here:

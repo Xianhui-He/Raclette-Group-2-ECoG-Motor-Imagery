@@ -1,3 +1,5 @@
+![Logo](http://neuromatch.io/svgs/logos/neuromatch-academy-light.svg)
+
 # Raclette-Group-2-ECoG-Motor-Imagery    
 
 [![react](https://img.shields.io/badge/raclette%20project-FF8B8B?style=for-the-badge&logo=&label=Our%20Webpage&labelColor=f9f7e8)](https://raclette-project.netlify.app/)
